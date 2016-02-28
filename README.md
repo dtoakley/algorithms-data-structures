@@ -1,3 +1,3 @@
 # algorithms_data_structures
 
-Common data structures and algorithsm in Python
+Common data structures and algorithms in Python
